@@ -28,6 +28,7 @@ git clone https://github.com/peterdsp/ADPE.git
 If you have any questions or queries related to the course or repository, feel free to contact us:
 
 Instructor: Petros Dhepollari
+
 Email: info@peterdsp.dev
 
 **Happy coding!**
