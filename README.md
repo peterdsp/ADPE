@@ -17,8 +17,6 @@ This repository serves as a valuable resource for students enrolled in the 3rd-g
 
 To get started with the course materials, clone the repository to your local machine:
 
-In Markdown, you can close a code block by adding three backticks on a new line. Here's an example:
-
 ```bash
 git clone https://github.com/peterdsp/ADPE.git
 ```
